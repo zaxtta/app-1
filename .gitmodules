@@ -1,0 +1,3 @@
+[submodule "ui-1"]
+	path = ui-1
+	url = git@github.com:zaxtta/ui-1.git
